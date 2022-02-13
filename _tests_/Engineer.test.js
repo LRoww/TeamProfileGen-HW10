@@ -10,9 +10,9 @@ describe('Engineer Class', () => {
   //getGithub test
   it('getGithub returns correct value', ()=> {
     expect(new Engineer('laura', 1234, 'letter@email.com', 'username').getGithub()).toBe('https://github.com/username');
-  })
+  });
   //getRole test
   it('getRole returns correct role', ()=> {
     expect(new Engineer('laura', 1234, 'letter@email.com', 'username').getRole()).toBe('Engineer');
-  })
+  });
 });

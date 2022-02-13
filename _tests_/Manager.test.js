@@ -1,4 +1,4 @@
-const Manager = require('.../lib/Manager');
+const Manager = require('../lib/Manager');
 
 describe('Manager Class', () => {
   //constructor test with officeNumber adition 
