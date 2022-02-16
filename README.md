@@ -9,8 +9,8 @@
   2. Use `npm install` to install required node modules
   3. Call `node index.js` to start program
 
-  ## Usage 
-  ![Linked Video]()
+  ## Usage Example
+  [Linked Video](https://drive.google.com/file/d/1ng5ubJabiz4X1O6ISdyz38kkiIJZUn1i/view)
 
   ## Utilized: 
   - CSS Framework: [Bootstrap](https://getbootstrap.com/)
