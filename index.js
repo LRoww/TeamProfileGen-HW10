@@ -1,5 +1,5 @@
-const Generator = require('./lib/Generator')
+const Gatherer = require('./lib/Gatherer');
 
-const generator = new Generator();
+const gatherer = new Gatherer();
 
-generator.start();
+gatherer.start();
