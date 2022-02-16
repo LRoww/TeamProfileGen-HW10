@@ -2,8 +2,8 @@
   ![license badge](https://img.shields.io/badge/license-Apache-blue)
 
   ## Discription
-  This project takes in data from user to generate a html webpage to display a teams members, role, and relivant team member details. 
-
+  This project takes in data from a user to generate a HTML webpage for a software deveolopment team. The page displays the team members, their role, and information relivant to their role. This project helped me gain greater familiarity with object oriented programming, inquirer, jest and test-driven development.
+  
   ## Installation
   1. Clone to local repository 
   2. Use `npm install` to install required node modules
