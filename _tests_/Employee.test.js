@@ -21,7 +21,7 @@ describe('Employee Class', () => {
       expect(new Employee('laura', 1234, 'letter@email.com').getId()).toBe('1234');
     });
     it('getEmail return correct value', () => {
-      expect(new Employee('laura', 1234, 'letter@email.com').getEmail()).toBe('letter@email.com');
+      expect(new Employee('laura', 1234, 'letter@email.com').getEmail()).toBe('mailto: letter@email.com');
     });
     //getRole returns 'Employee'
     it('getRole returns Employee', () => {
